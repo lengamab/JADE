@@ -1,0 +1,10 @@
+1785363007477	
+1785363007478	> temp-app@0.1.0 dev
+1785363007478	> next dev
+1785363007478	
+1785363007709	▲ Next.js 16.2.12 (Turbopack)
+1785363007709	- Local:         http://localhost:3000
+1785363007709	- Network:       http://192.168.1.79:3000
+1785363007709	✓ Ready in 178ms
+1785363007942	
+1785363012653	 GET / 200 in 1059ms (next.js: 979ms, application-code: 80ms)
