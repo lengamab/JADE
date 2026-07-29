@@ -1,0 +1,11 @@
+1785363920495	
+1785363920495	> temp-app@0.1.0 dev
+1785363920495	> next dev
+1785363920495	
+1785363920814	▲ Next.js 16.2.12 (Turbopack)
+1785363920814	- Local:         http://localhost:3000
+1785363920814	- Network:       http://192.168.1.79:3000
+1785363920814	✓ Ready in 238ms
+1785363921186	
+1785363925416	 GET / 200 in 189ms (next.js: 81ms, application-code: 108ms)
+1785363925416	[browser] Image with src "/hero_sensual.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes (file:///Users/brice.lengama/Documents/La French/JADE IA/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2489:13)

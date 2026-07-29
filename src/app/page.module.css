@@ -32,6 +32,23 @@
   pointer-events: none;
 }
 
+.heroImageContainer {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: 400px;
+  margin-bottom: 2rem;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 10px 40px rgba(255, 42, 117, 0.2);
+  animation: fadeUp 0.6s ease-out;
+}
+
+.heroImage {
+  object-fit: cover;
+  opacity: 0.8;
+}
+
 .title {
   font-size: 4rem;
   font-weight: 800;
