@@ -15,6 +15,27 @@ export default function Pricing() {
         <p className={styles.subtitle}>
           Anonymous billing. No hidden fees. Cancel anytime.
         </p>
+
+        <h2 className={styles.title} style={{fontSize: '2.5rem', marginTop: '3rem'}}>Choose Your Voice</h2>
+        <div className={styles.features} style={{marginTop: '1.5rem', marginBottom: '3rem'}}>
+          <div className={styles.featureCard} style={{ textAlign: 'center', cursor: 'pointer' }}>
+            <h3 className={styles.featureTitle}>Aria</h3>
+            <p className={styles.featureText} style={{ color: 'var(--primary-pink)', fontWeight: '600' }}>The Sweet Whisper</p>
+            <p className={styles.featureText} style={{ marginTop: '0.5rem' }}>Gentle, romantic, and eager to please. Perfect for intimate, slow-paced fantasies.</p>
+          </div>
+          <div className={styles.featureCard} style={{ textAlign: 'center', cursor: 'pointer' }}>
+            <h3 className={styles.featureTitle}>Zara</h3>
+            <p className={styles.featureText} style={{ color: 'var(--primary-pink)', fontWeight: '600' }}>The Dominant</p>
+            <p className={styles.featureText} style={{ marginTop: '0.5rem' }}>Authoritative, confident, and demanding. Surrender control to her desires.</p>
+          </div>
+          <div className={styles.featureCard} style={{ textAlign: 'center', cursor: 'pointer' }}>
+            <h3 className={styles.featureTitle}>Valentina</h3>
+            <p className={styles.featureText} style={{ color: 'var(--primary-pink)', fontWeight: '600' }}>The Passionate Lover</p>
+            <p className={styles.featureText} style={{ marginTop: '0.5rem' }}>Wild, unpredictable, and fiercely lustful. For intense and explicit encounters.</p>
+          </div>
+        </div>
+
+        <h2 className={styles.title} style={{fontSize: '2.5rem'}}>Select Your Plan</h2>
         
         <div className={styles.features} style={{marginTop: '2rem'}}>
           <div className={styles.featureCard} style={{ textAlign: 'center' }}>
